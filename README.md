@@ -1,3 +1,3 @@
 # JavaParser
 
-![screenshot] (screenshot.png)
+![Screenshot] (/screenshot.png)
